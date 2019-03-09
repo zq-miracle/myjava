@@ -9,7 +9,6 @@ package string;
  
  */
 
- //基本不用
 public class ZQ_StringBuffer {
     public static void main(String[] args) {
         StringBuffer stringBuffer = new StringBuffer();
